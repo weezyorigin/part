@@ -121,10 +121,10 @@ var obj = {
       ban: 'http://www.aviasales.ru/route/MOW/BKK/?marker=222372',
     },
     search: {
-      main: '&lt;script src="//www.travelpayouts.com/widgets/553a0062bf3116671079a4e38486a71e.js?v=1657" charset="utf-8" async&gt;&lt;/script&gt;',
+      main: '&lt;script src="//www.travelpayouts.com/widgets/553a0062bf3116671079a4e38486a71e.js?v=1703" charset="utf-8" async&gt;&lt;/script&gt;',
       stamb: '&lt;script src="//www.travelpayouts.com/widgets/9d7fd0adc9bbaa4ae6bfeea749cab961.js?v=1703" charset="utf-8" async&gt;&lt;/script&gt;',
-      sharm: '&lt;script src="//www.travelpayouts.com/widgets/a58816c9302d47caef18d2d510fbb05c.js?v=1703" charset="utf-8" async&gt;&lt;/script&gt;',
-      dub: '&lt;script src="//www.travelpayouts.com/widgets/c5a1b76adf73db2bd4bbeb0b0811c893.js?v=1703" charset="utf-8" async&gt;&lt;/script&gt;',
+      sharm: '&lt;script src="//www.travelpayouts.com/widgets/a58816c9302d47caef18d2d510fbb05c.js?v=1657" charset="utf-8" async&gt;&lt;/script&gt;',
+      dub: '&lt;script src="//www.travelpayouts.com/widgets/c5a1b76adf73db2bd4bbeb0b0811c893.js?v=1657" charset="utf-8" async&gt;&lt;/script&gt;',
       phu: '&lt;script src="//www.travelpayouts.com/widgets/04df590ea21eefb5ae7bc27c091bcf5d.js?v=1703" charset="utf-8" async&gt;&lt;/script&gt;',
     }
   }
