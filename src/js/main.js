@@ -178,7 +178,7 @@ $('#nav-travelta-search .links__item div').click(function () {
 // TRAVELATA HOT
 
 var travelataHotTitle = $('#nav-travelta-hot .output span');
-var travelataHothLink = $('#nav-travelta-search .output pre');
+var travelataHothLink = $('#nav-travelta-hot .output pre');
 
 $('#nav-travelta-hot .links__item div').click(function () {
   if ($(this).hasClass('TU')) { travelataHotTitle.text($(this).text()); travelataHothLink.html(obj.travelata.hot.tu); }
