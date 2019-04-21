@@ -99,6 +99,7 @@ var obj = {
 
   tripster: {
     links: {
+      main: 'https://c11.travelpayouts.com/click?shmarker=222372&promo_id=652&source_type=customlink&type=click&custom_url=https%3A%2F%2Fexperience.tripster.ru',
       kal: 'https://c11.travelpayouts.com/click?shmarker=222372&promo_id=1738&source_type=link&type=click',
       stamb: 'https://c11.travelpayouts.com/click?shmarker=222372&promo_id=1740&source_type=link&type=click',
       pat: 'https://c11.travelpayouts.com/click?shmarker=222372&promo_id=138&source_type=link&type=click',
