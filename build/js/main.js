@@ -163,23 +163,7 @@ var obj = {
       PO: 'http://www.roomguru.ru/Place/Portugal.htm?a_aid=213417',
       CH: 'http://www.roomguru.ru/Place/Czech_Republic.htm?a_aid=213417',
       IT: 'http://www.roomguru.ru/Place/Italy.htm?a_aid=213417',
-    },
-    search: {
-      ru: '&lt;script src="https://sbhc.portalhc.com/213417/searchbox/458504"&gt;&lt;/script&gt;',
-      tu: '&lt;script src="https://sbhc.portalhc.com/213417/searchbox/458503"&gt;&lt;/script&gt;',
-      eg: '&lt;script src="https://sbhc.portalhc.com/213417/searchbox/458502"&gt;&lt;/script&gt;',
-      oa: '&lt;script src="https://sbhc.portalhc.com/213417/searchbox/458501"&gt;&lt;/script&gt;',
-      mo: '&lt;script src="https://sbhc.portalhc.com/213417/searchbox/458500"&gt;&lt;/script&gt;',
-      KU: '&lt;script src="https://sbhc.portalhc.com/213417/searchbox/458499"&gt;&lt;/script&gt;',
-      KI: '&lt;script src="https://sbhc.portalhc.com/213417/searchbox/458505"&gt;&lt;/script&gt;',
-      TA: '&lt;script src="https://sbhc.portalhc.com/213417/searchbox/458506"&gt;&lt;/script&gt;',
-      VE: '&lt;script src="https://sbhc.portalhc.com/213417/searchbox/458508"&gt;&lt;/script&gt;',
-      AB: '&lt;script src="https://sbhc.portalhc.com/213417/searchbox/458509"&gt;&lt;/script&gt;',
-      IS: '&lt;script src="https://sbhc.portalhc.com/213417/searchbox/458510"&gt;&lt;/script&gt;',
-      PO: '&lt;script src="https://sbhc.portalhc.com/213417/searchbox/458511"&gt;&lt;/script&gt;',
-      CH: '&lt;script src="https://sbhc.portalhc.com/213417/searchbox/458512"&gt;&lt;/script&gt;',
-      IT: '&lt;script src="https://sbhc.portalhc.com/213417/searchbox/458681"&gt;&lt;/script&gt;',
-    },
+    }
   },
 
   tripster: {
@@ -480,29 +464,6 @@ $('#nav-roomguru-links .links__item div').click(function () {
   if ($(this).hasClass('PO')) { roomguruLinksTitle.text($(this).text()); roomguruLinksLink.text(obj.roomguru.links.PO); }
   if ($(this).hasClass('CH')) { roomguruLinksTitle.text($(this).text()); roomguruLinksLink.text(obj.roomguru.links.CH); }
   if ($(this).hasClass('IT')) { roomguruLinksTitle.text($(this).text()); roomguruLinksLink.text(obj.roomguru.links.IT); }
-});
-
-// ROOMGURU SEARCH
-
-var roomguruSearchTitle = $('#nav-roomguru-search .output span');
-var roomguruSearchLink = $('#nav-roomguru-search .output pre');
-
-$('#nav-roomguru-search .links__item div').click(function () {
-  if ($(this).hasClass('MAIN')) { roomguruSearchTitle.text($(this).text()); roomguruSearchLink.html(obj.roomguru.search.main); }
-  if ($(this).hasClass('RU')) { roomguruSearchTitle.text($(this).text()); roomguruSearchLink.html(obj.roomguru.search.ru); }
-  if ($(this).hasClass('TU')) { roomguruSearchTitle.text($(this).text()); roomguruSearchLink.html(obj.roomguru.search.tu); }
-  if ($(this).hasClass('EG')) { roomguruSearchTitle.text($(this).text()); roomguruSearchLink.html(obj.roomguru.search.eg); }
-  if ($(this).hasClass('MO')) { roomguruSearchTitle.text($(this).text()); roomguruSearchLink.html(obj.roomguru.search.mo); }
-  if ($(this).hasClass('OA')) { roomguruSearchTitle.text($(this).text()); roomguruSearchLink.html(obj.roomguru.search.oa); }
-  if ($(this).hasClass('KU')) { roomguruSearchTitle.text($(this).text()); roomguruSearchLink.html(obj.roomguru.search.KU); }
-  if ($(this).hasClass('KI')) { roomguruSearchTitle.text($(this).text()); roomguruSearchLink.html(obj.roomguru.search.KI); }
-  if ($(this).hasClass('TA')) { roomguruSearchTitle.text($(this).text()); roomguruSearchLink.html(obj.roomguru.search.TA); }
-  if ($(this).hasClass('VE')) { roomguruSearchTitle.text($(this).text()); roomguruSearchLink.html(obj.roomguru.search.VE); }
-  if ($(this).hasClass('AB')) { roomguruSearchTitle.text($(this).text()); roomguruSearchLink.html(obj.roomguru.search.AB); }
-  if ($(this).hasClass('IS')) { roomguruSearchTitle.text($(this).text()); roomguruSearchLink.html(obj.roomguru.search.IS); }
-  if ($(this).hasClass('PO')) { roomguruSearchTitle.text($(this).text()); roomguruSearchLink.html(obj.roomguru.search.PO); }
-  if ($(this).hasClass('CH')) { roomguruSearchTitle.text($(this).text()); roomguruSearchLink.html(obj.roomguru.search.CH); }
-  if ($(this).hasClass('IT')) { roomguruSearchTitle.text($(this).text()); roomguruSearchLink.html(obj.roomguru.search.IT); }
 });
 
 // TRIPSTER LINKS
