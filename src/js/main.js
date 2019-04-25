@@ -13,10 +13,10 @@ var obj = {
       tu: 'https://c18.travelpayouts.com/click?shmarker=222372.text-main&promo_id=769&source_type=link&type=click',
       eg: 'https://c18.travelpayouts.com/click?shmarker=222372.text-main&promo_id=768&source_type=link&type=click',
       dubai: 'https://c18.travelpayouts.com/click?shmarker=222372&promo_id=771&source_type=customlink&type=click&custom_url=https%3A%2F%2Ftravelata.ru%2Fsearch%23%3FfromCity%3D2%26toCountry%3D68%26toCity%3D1379%26dateFrom%3D26.04.2019%26adults%3D2%26hotelClass%3Dall%26meal%3Dall%26priceFrom%3D6000%26priceTo%3D1000000%26sid%3D152uu1gqf3%26sort%3Drecommend',
-      oa: 'https://travelata.ru/search?sub_id=ee23c3d5a4684b96bae8e56c4-222372&utm_medium=cpa&utm_source=advcake&utm_campaign=travelpayout&advcake=1&utm_content=222372#?fromCity=2&toCountry=68&&nightFrom=7&nightTo=8&adults=2&hotelClass=all&meal=all&priceFrom=6000&priceTo=1000000&sid=jnco4ir24d&sort=recommend',
+      oa: 'https://c18.travelpayouts.com/click?shmarker=222372&promo_id=771&source_type=customlink&type=click&custom_url=https%3A%2F%2Ftravelata.ru%2Fsearch%23%3FfromCity%3D2%26toCountry%3D68%26nightFrom%3D7%26nightTo%3D8%26adults%3D2%26hotelClass%3Dall%26meal%3Dall%26priceFrom%3D6000%26priceTo%3D1000000%26sid%3Dn1gff4hyjz%26sort%3DpriceUp',
       mo: 'https://c18.travelpayouts.com/click?shmarker=222372&promo_id=771&source_type=customlink&type=click&custom_url=https%3A%2F%2Ftravelata.ru%2Fsearch%23%3FfromCity%3D2%26toCountry%3D104%26nightFrom%3D7%26nightTo%3D8%26adults%3D2%26hotelClass%3Dall%26meal%3Dall%26priceFrom%3D6000%26priceTo%3D1000000%26sid%3D7oif5nkpq2%26sort%3Drecommend',
       praga: 'https://c18.travelpayouts.com/click?shmarker=222372&promo_id=771&source_type=customlink&type=click&custom_url=https%3A%2F%2Ftravelata.ru%2Fsearch%23%3FfromCity%3D2%26toCountry%3D105%26toCity%3D2535%26nightFrom%3D7%26nightTo%3D8%26adults%3D2%26hotelClass%3Dall%26meal%3Dall%26priceFrom%3D6000%26priceTo%3D1000000%26sid%3D0k594bhf6p%26sort%3Drecommend',
-      ch: 'https://travelata.ru/search?sub_id=ee23c3d5a4684b96bae8e56c4-222372&utm_medium=cpa&utm_source=advcake&utm_campaign=travelpayout&advcake=1&utm_content=222372#?fromCity=2&toCountry=105&toCity=2535&nightFrom=7&nightTo=8&adults=2&hotelClass=all&meal=all&priceFrom=6000&priceTo=1000000&sid=0k594bhf6p&sort=recommend',
+      ch: 'https://c18.travelpayouts.com/click?shmarker=222372&promo_id=771&source_type=customlink&type=click&custom_url=https%3A%2F%2Ftravelata.ru%2Fsearch%23%3FfromCity%3D2%26toCountry%3D105%26nightFrom%3D7%26nightTo%3D8%26adults%3D2%26hotelClass%3Dall%26meal%3Dall%26priceFrom%3D6000%26priceTo%3D1000000%26sid%3D71x7pdxzm1%26sort%3DpriceUp',
       KU: 'https://c18.travelpayouts.com/click?shmarker=222372&promo_id=771&source_type=customlink&type=click&custom_url=https%3A%2F%2Ftravelata.ru%2Fsearch%23%3FfromCity%3D2%26toCountry%3D48%26nightFrom%3D7%26nightTo%3D8%26adults%3D2%26hotelClass%3Dall%26meal%3Dall%26priceFrom%3D6000%26priceTo%3D1000000%26sid%3Dtr8mfkx6lk%26sort%3Drecommend',
       KI: 'https://c18.travelpayouts.com/click?shmarker=222372&promo_id=771&source_type=customlink&type=click&custom_url=https%3A%2F%2Ftravelata.ru%2Fsearch%23%3FfromCity%3D2%26toCountry%3D44%26nightFrom%3D7%26nightTo%3D8%26adults%3D2%26hotelClass%3Dall%26meal%3Dall%26priceFrom%3D6000%26priceTo%3D1000000%26sid%3Dio3iz4b6i2%26sort%3Drecommend',
       TA: 'https://c18.travelpayouts.com/click?shmarker=222372&promo_id=771&source_type=customlink&type=click&custom_url=https%3A%2F%2Ftravelata.ru%2Fsearch%23%3FfromCity%3D2%26toCountry%3D87%26nightFrom%3D7%26nightTo%3D8%26adults%3D2%26hotelClass%3Dall%26meal%3Dall%26priceFrom%3D6000%26priceTo%3D1000000%26sid%3Drkfewzqzom%26sort%3Drecommend',
@@ -26,6 +26,9 @@ var obj = {
       PO: 'https://c18.travelpayouts.com/click?shmarker=222372&promo_id=771&source_type=customlink&type=click&custom_url=https%3A%2F%2Ftravelata.ru%2Fsearch%23%3FfromCity%3D2%26toCountry%3D75%26nightFrom%3D7%26nightTo%3D8%26adults%3D2%26hotelClass%3Dall%26meal%3Dall%26priceFrom%3D6000%26priceTo%3D1000000%26sid%3D3dipia2usd%26sort%3Drecommend',
       YU: 'https://c18.travelpayouts.com/click?shmarker=222372&promo_id=771&source_type=customlink&type=click&custom_url=https%3A%2F%2Ftravelata.ru%2Fsearch%23%3FfromCity%3D2%26toCountry%3D116%26nightFrom%3D7%26nightTo%3D8%26adults%3D2%26hotelClass%3Dall%26meal%3Dall%26priceFrom%3D6000%26priceTo%3D1000000%26sid%3D1g79kkc2gf%26sort%3Drecommend',
       IT: 'https://c18.travelpayouts.com/click?shmarker=222372&promo_id=771&source_type=customlink&type=click&custom_url=https%3A%2F%2Ftravelata.ru%2Fsearch%23%3FfromCity%3D2%26toCountry%3D39%26nightFrom%3D7%26nightTo%3D8%26adults%3D2%26hotelClass%3Dall%26meal%3Dall%26priceFrom%3D6000%26priceTo%3D1000000%26sid%3Djnn60cyn2r%26sort%3Drecommend',
+      TU: 'https://c18.travelpayouts.com/click?shmarker=222372&promo_id=771&source_type=customlink&type=click&custom_url=https%3A%2F%2Ftravelata.ru%2Fsearch%23%3FfromCity%3D2%26toCountry%3D91%26nightFrom%3D7%26nightTo%3D8%26adults%3D2%26hotelClass%3Dall%26meal%3Dall%26priceFrom%3D6000%26priceTo%3D1000000%26sid%3Dqd0dplcja2%26sort%3DpriceUp',
+      FI: 'https://c18.travelpayouts.com/click?shmarker=222372&promo_id=771&source_type=customlink&type=click&custom_url=https%3A%2F%2Ftravelata.ru%2Fsearch%23%3FfromCity%3D2%26toCountry%3D97%26nightFrom%3D7%26nightTo%3D8%26adults%3D2%26hotelClass%3Dall%26meal%3Dall%26priceFrom%3D6000%26priceTo%3D1000000%26sid%3D9nmj7x6w3u%26sort%3DpriceUp',
+      KR: 'https://c18.travelpayouts.com/click?shmarker=222372&promo_id=771&source_type=customlink&type=click&custom_url=https%3A%2F%2Ftravelata.ru%2Fsearch%23%3FfromCity%3D2%26toCountry%3D76%26toCity%3D2232%26nightFrom%3D7%26nightTo%3D10%26adults%3D2%26hotelClass%3Dall%26meal%3Dall%26priceFrom%3D6000%26priceTo%3D1000000%26sid%3Dbmvcdkkqmz%26sort%3DpriceUp',
     },
     calendar: {
       ru: '&lt;script src="https://c18.travelpayouts.com/content?promo_id=1493&shmarker=222372&countries=76&powered_by=false" charset="utf-8" async&gt;&lt;/script&gt;',
@@ -42,6 +45,7 @@ var obj = {
       PO: '&lt;script src="https://c18.travelpayouts.com/content?promo_id=1493&shmarker=222372&countries=75&powered_by=false" charset="utf-8" async&gt;&lt;/script&gt;',
       CH: '&lt;script src="https://c18.travelpayouts.com/content?promo_id=1493&shmarker=222372&countries=105&powered_by=false" charset="utf-8" async&gt;&lt;/script&gt;',
       IT: '&lt;script src="https://c18.travelpayouts.com/content?promo_id=1493&shmarker=222372&countries=39&powered_by=false" charset="utf-8" async&gt;&lt;/script&gt;',
+      TU: '&lt;script src="https://c18.travelpayouts.com/content?promo_id=1493&shmarker=222372&countries=91&powered_by=false" charset="utf-8" async&gt;&lt;/script&gt;',
     },
     search: {
       ru: '&lt;script src="https://c18.travelpayouts.com/content?promo_id=1492&shmarker=222372&countries=76&powered_by=false" charset="utf-8" async&gt;&lt;/script&gt;',
@@ -58,6 +62,7 @@ var obj = {
       PO: '&lt;script src="https://c18.travelpayouts.com/content?promo_id=1492&shmarker=222372&countries=75&powered_by=false" charset="utf-8" async&gt;&lt;/script&gt;',
       CH: '&lt;script src="https://c18.travelpayouts.com/content?promo_id=1492&shmarker=222372&countries=105&powered_by=false" charset="utf-8" async&gt;&lt;/script&gt;',
       IT: '&lt;script src="https://c18.travelpayouts.com/content?promo_id=1492&shmarker=222372&countries=39&powered_by=false" charset="utf-8" async&gt;&lt;/script&gt;',
+      TU: '&lt;script src="https://c18.travelpayouts.com/content?promo_id=1492&shmarker=222372&countries=91&powered_by=false" charset="utf-8" async&gt;&lt;/script&gt;',
     },
     hot: {
       tu: '&lt;script src="https://c18.travelpayouts.com/content?promo_id=1490&shmarker=222372&table=true&rows=1&columns=3&cellWidth=150&countries=92&powered_by=false" charset="utf-8" async&gt;&lt;/script&gt;',
@@ -68,6 +73,7 @@ var obj = {
       VE: '&lt;script src="https://c18.travelpayouts.com/content?promo_id=1490&shmarker=222372&table=true&rows=1&columns=3&cellWidth=150&countries=22&powered_by=false" charset="utf-8" async&gt;&lt;/script&gt;',
       IS: '&lt;script src="https://c18.travelpayouts.com/content?promo_id=1490&shmarker=222372&table=true&rows=1&columns=3&cellWidth=150&countries=38&powered_by=false" charset="utf-8" async&gt;&lt;/script&gt;',
       CH: '&lt;script src="https://c18.travelpayouts.com/content?promo_id=1490&shmarker=222372&table=true&rows=1&columns=3&cellWidth=150&countries=105&powered_by=false" charset="utf-8" async&gt;&lt;/script&gt;',
+      TU: '&lt;script src="https://c18.travelpayouts.com/content?promo_id=1490&shmarker=222372&table=true&rows=1&columns=3&cellWidth=150&countries=91&powered_by=true" charset="utf-8" async&gt;&lt;/script&gt;',
     }
   },
 
@@ -83,6 +89,7 @@ var obj = {
       KI: 'https://c26.travelpayouts.com/click?shmarker=222372&promo_id=609&source_type=link&type=click',
       TA: 'https://c26.travelpayouts.com/click?shmarker=222372&promo_id=258&source_type=link&type=click',
       VE: 'https://c26.travelpayouts.com/click?shmarker=222372&promo_id=608&source_type=link&type=click',
+      TU: 'https://c26.travelpayouts.com/click?shmarker=222372&promo_id=263&source_type=link&type=click',
     },
     calendar: {
       ru: '&lt;script src="//c26.travelpayouts.com/content?promo_id=1495&shmarker=222372&from_country=RU&to_country=RU&nights=7&adults=2&stars_from=1&stars_to=5&title_size=15&days_count=31&flex_dates=true&flex_nights=false&countries_list=true&departures=true&shown_nights=true&graph_label=true&week_labels=true&month_labels=true&months_switcher=true&tooltip=true&best_price=true&lines=true&medium_line=true&full_month=true&background=false&minimal=true&focus_target=false&powered_by=false" charset=" charset="utf-8" async&gt;&lt;/script&gt;',
@@ -98,6 +105,7 @@ var obj = {
       IS: '&lt;script src="//c26.travelpayouts.com/content?promo_id=1495&shmarker=222372&from_country=RU&to_country=ES&nights=7&adults=2&stars_from=1&stars_to=5&title_size=15&days_count=31&flex_dates=true&flex_nights=false&countries_list=true&departures=true&shown_nights=true&graph_label=true&week_labels=true&month_labels=true&months_switcher=true&tooltip=true&best_price=true&lines=true&medium_line=true&full_month=true&background=false&minimal=true&focus_target=false&powered_by=false" charset=" charset="utf-8" async&gt;&lt;/script&gt;',
       CH: '&lt;script src="//c26.travelpayouts.com/content?promo_id=1495&shmarker=222372&from_country=RU&to_country=CZ&nights=7&adults=2&stars_from=1&stars_to=5&title_size=15&days_count=31&flex_dates=true&flex_nights=false&countries_list=true&departures=true&shown_nights=true&graph_label=true&week_labels=true&month_labels=true&months_switcher=true&tooltip=true&best_price=true&lines=true&medium_line=true&full_month=true&background=false&minimal=true&focus_target=false&powered_by=false" charset=" charset="utf-8" async&gt;&lt;/script&gt;',
       IT: '&lt;script src="//c26.travelpayouts.com/content?promo_id=1495&shmarker=222372&from_country=RU&to_country=IT&nights=7&adults=2&stars_from=1&stars_to=5&title_size=15&days_count=31&flex_dates=true&flex_nights=false&countries_list=true&departures=true&shown_nights=true&graph_label=true&week_labels=true&month_labels=true&months_switcher=true&tooltip=true&best_price=true&lines=true&medium_line=true&full_month=true&background=false&minimal=true&focus_target=false&powered_by=false" charset=" charset="utf-8" async&gt;&lt;/script&gt;',
+      TU: '&lt;script src="//c26.travelpayouts.com/content?promo_id=1495&shmarker=222372&from_country=RU&to_country=TN&nights=7&adults=2&stars_from=1&stars_to=5&title_size=15&days_count=31&flex_dates=true&flex_nights=false&countries_list=true&departures=true&shown_nights=true&graph_label=true&week_labels=true&month_labels=true&months_switcher=true&tooltip=true&best_price=true&lines=true&medium_line=true&full_month=true&background=false&minimal=true&focus_target=false&powered_by=false" charset=" charset="utf-8" async&gt;&lt;/script&gt;',
     },
     search: {
       ru: '&lt;script src="//c26.travelpayouts.com/content?promo_id=1150&shmarker=222372&from_country=RU&to_country=RU&nights=7&adults=2&flex_dates=true&flex_nights=false&stars_from=1&stars_to=5&powered_by=false" charset="utf-8" async&gt;&lt;/script&gt;',
@@ -113,6 +121,8 @@ var obj = {
       IS: '&lt;script src="//c26.travelpayouts.com/content?promo_id=1150&shmarker=222372&from_country=RU&to_country=ES&nights=7&adults=2&flex_dates=true&flex_nights=false&stars_from=1&stars_to=5&powered_by=false" charset="utf-8" async&gt;&lt;/script&gt;',
       CH: '&lt;script src="//c26.travelpayouts.com/content?promo_id=1150&shmarker=222372&from_country=RU&to_country=CZ&nights=7&adults=2&flex_dates=true&flex_nights=false&stars_from=1&stars_to=5&powered_by=false" charset="utf-8" async&gt;&lt;/script&gt;',
       IT: '&lt;script src="//c26.travelpayouts.com/content?promo_id=1150&shmarker=222372&from_country=RU&to_country=IT&nights=7&adults=2&flex_dates=true&flex_nights=false&stars_from=1&stars_to=5&powered_by=false" charset="utf-8" async&gt;&lt;/script&gt;',
+      TU: '&lt;script src="//c26.travelpayouts.com/content?promo_id=1150&shmarker=222372&from_country=RU&to_country=TN&nights=7&adults=2&flex_dates=true&flex_nights=false&stars_from=1&stars_to=5&powered_by=false" charset="utf-8" async&gt;&lt;/script&gt;',
+
     },
     hot: {
       ru: '&lt;script src="//c26.travelpayouts.com/content?promo_id=1494&shmarker=222372&country=RU&adults=0&scroll=false&powered_by=false" charset="utf-8" async&gt;&lt;/script&gt;',
@@ -128,6 +138,7 @@ var obj = {
       IS: '&lt;script src="//c26.travelpayouts.com/content?promo_id=1494&shmarker=222372&country=ES&adults=0&scroll=false&powered_by=false" charset="utf-8" async&gt;&lt;/script&gt;',
       CH: '&lt;script src="//c26.travelpayouts.com/content?promo_id=1494&shmarker=222372&country=CZ&adults=0&scroll=false&powered_by=false" charset="utf-8" async&gt;&lt;/script&gt;',
       IT: '&lt;script src="//c26.travelpayouts.com/content?promo_id=1494&shmarker=222372&country=IT&adults=0&scroll=false&powered_by=false" charset="utf-8" async&gt;&lt;/script&gt;',
+      TN: '&lt;script src="//c26.travelpayouts.com/content?promo_id=1494&shmarker=222372&country=TN&adults=0&scroll=false&powered_by=false" charset="utf-8" async&gt;&lt;/script&gt;',
     },
     best: {
       ru: '&lt;script src="//c26.travelpayouts.com/content?promo_id=1151&shmarker=222372&popular=true&title=%D0%9B%D1%83%D1%87%D1%88%D0%B8%D0%B5%20%D1%86%D0%B5%D0%BD%D1%8B%20%D0%BD%D0%B0%20%D1%82%D1%83%D1%80%D1%8B&city_from=Moscow&country_to=RU&minimized=true&powered_by=false" charset="utf-8" async&gt;&lt;/script&gt;',
@@ -143,6 +154,7 @@ var obj = {
       IS: '&lt;script src="//c26.travelpayouts.com/content?promo_id=1151&shmarker=222372&popular=true&title=%D0%9B%D1%83%D1%87%D1%88%D0%B8%D0%B5%20%D1%86%D0%B5%D0%BD%D1%8B%20%D0%BD%D0%B0%20%D1%82%D1%83%D1%80%D1%8B&city_from=Moscow&country_to=ES&minimized=true&powered_by=false" charset="utf-8" async&gt;&lt;/script&gt;',
       CH: '&lt;script src="//c26.travelpayouts.com/content?promo_id=1151&shmarker=222372&popular=true&title=%D0%9B%D1%83%D1%87%D1%88%D0%B8%D0%B5%20%D1%86%D0%B5%D0%BD%D1%8B%20%D0%BD%D0%B0%20%D1%82%D1%83%D1%80%D1%8B&city_from=Moscow&country_to=CZ&minimized=true&powered_by=false" charset="utf-8" async&gt;&lt;/script&gt;',
       IT: '&lt;script src="//c26.travelpayouts.com/content?promo_id=1151&shmarker=222372&popular=true&title=%D0%9B%D1%83%D1%87%D1%88%D0%B8%D0%B5%20%D1%86%D0%B5%D0%BD%D1%8B%20%D0%BD%D0%B0%20%D1%82%D1%83%D1%80%D1%8B&city_from=Moscow&country_to=IT&minimized=true&powered_by=false" charset="utf-8" async&gt;&lt;/script&gt;',
+      IT: '&lt;script src="//c26.travelpayouts.com/content?promo_id=1151&shmarker=222372&popular=true&title=%D0%9B%D1%83%D1%87%D1%88%D0%B8%D0%B5%20%D1%86%D0%B5%D0%BD%D1%8B%20%D0%BD%D0%B0%20%D1%82%D1%83%D1%80%D1%8B&city_from=Moscow&country_to=TN&minimized=true&powered_by=false" charset="utf-8" async&gt;&lt;/script&gt;',
     }
   },
 
@@ -163,6 +175,10 @@ var obj = {
       PO: 'http://www.roomguru.ru/Place/Portugal.htm?a_aid=213417',
       CH: 'http://www.roomguru.ru/Place/Czech_Republic.htm?a_aid=213417',
       IT: 'http://www.roomguru.ru/Place/Italy.htm?a_aid=213417',
+      TU: 'http://www.roomguru.ru/Place/Tunisia.htm?a_aid=213417',
+      FI: 'http://www.roomguru.ru/Place/Philippines.htm?a_aid=213417',
+      KR: 'http://www.roomguru.ru/Place/Crimea.htm?a_aid=213417',
+      BR: 'http://www.roomguru.ru/Place/Brazil.htm?a_aid=213417',
     }
   },
 
@@ -187,6 +203,10 @@ var obj = {
       vena: 'https://c11.travelpayouts.com/click?shmarker=222372&promo_id=1739&source_type=link&type=click',
       arg: 'https://c11.travelpayouts.com/click?shmarker=222372&promo_id=1093&source_type=link&type=click',
       dub: 'https://c11.travelpayouts.com/click?shmarker=222372&promo_id=652&source_type=customlink&type=click&custom_url=https%3A%2F%2Fexperience.tripster.ru%2Fexperience%2FDubai%2F',
+      tun: 'https://c11.travelpayouts.com/click?shmarker=222372&promo_id=652&source_type=customlink&type=click&custom_url=https%3A%2F%2Fexperience.tripster.ru%2Fexperience%2FTunis%2F',
+      man: 'https://c11.travelpayouts.com/click?shmarker=222372&promo_id=652&source_type=customlink&type=click&custom_url=https%3A%2F%2Fexperience.tripster.ru%2Fexperience%2FManila%2F',
+      kr: 'https://c11.travelpayouts.com/click?shmarker=222372&promo_id=652&source_type=customlink&type=click&custom_url=https%3A%2F%2Fexperience.tripster.ru%2Fdestinations%2Fcrimea%2F',
+      rio: 'https://c11.travelpayouts.com/click?shmarker=222372&promo_id=652&source_type=customlink&type=click&custom_url=https%3A%2F%2Fexperience.tripster.ru%2Fdestinations%2Fbrazil%2F',
     },
     search: {
       kal: '&lt;script src="https://c11.travelpayouts.com/content?promo_id=1499&shmarker=222372&wtype=geo&city=Kaliningrad&order=top&num=3&widget_template=horizontal&width=100%25&logo=true&widgetbar=false&powered_by=false" charset="utf-8" async&gt;&lt;/script&gt;',
@@ -206,6 +226,9 @@ var obj = {
       ams: '&lt;script src="https://c11.travelpayouts.com/content?promo_id=1499&shmarker=222372&wtype=geo&city=Amsterdam&order=top&num=3&widget_template=horizontal&width=100%25&logo=true&widgetbar=false&powered_by=false" charset="utf-8" async&gt;&lt;/script&gt;',
       vena: '&lt;script src="https://c11.travelpayouts.com/content?promo_id=1499&shmarker=222372&wtype=geo&city=Vienna&order=top&num=3&widget_template=horizontal&width=100%25&logo=true&widgetbar=false&powered_by=false" charset="utf-8" async&gt;&lt;/script&gt;',
       dub: '&lt;script src="https://c11.travelpayouts.com/content?promo_id=1499&shmarker=222372&wtype=geo&city=dubai&order=top&num=3&widget_template=horizontal&width=100%25&logo=true&widgetbar=false&powered_by=false" charset="utf-8" async&gt;&lt;/script&gt;',
+      tun: '&lt;script src="https://c11.travelpayouts.com/content?promo_id=1499&shmarker=222372&wtype=geo&city=tunis&order=top&num=3&widget_template=horizontal&width=100%25&logo=true&widgetbar=false&powered_by=false" charset="utf-8" async&gt;&lt;/script&gt;',
+      man: '&lt;script src="https://c11.travelpayouts.com/content?promo_id=1499&shmarker=222372&wtype=geo&city=manila&order=top&num=3&widget_template=horizontal&width=100%25&logo=true&widgetbar=false&powered_by=false" charset="utf-8" async&gt;&lt;/script&gt;',
+      rio: '&lt;script src="https://c11.travelpayouts.com/content?promo_id=1499&shmarker=222372&wtype=geo&city=Rio_de_Janeiro&order=top&num=3&widget_template=horizontal&width=100%25&logo=true&widgetbar=false&powered_by=false" charset="utf-8" async&gt;&lt;/script&gt;',
     }
   },
 
@@ -229,6 +252,10 @@ var obj = {
       ven: 'http://www.aviasales.ru/route/MOW/VIE/?marker=222372',
       ams: 'http://www.aviasales.ru/route/MOW/AMS/?marker=222372',
       vena: 'http://www.aviasales.ru/route/MOW/VIE/?marker=222372',
+      tun: 'http://www.aviasales.ru/route/MOW/TUN/?marker=222372',
+      man: 'http://www.aviasales.ru/route/MOW/MNL/?marker=222372',
+      sim: 'http://www.aviasales.ru/route/MOW/SIP/?marker=222372',
+      rio: 'http://www.aviasales.ru/route/MOW/RIO/?marker=222372',
     },
     search: {
       main: '&lt;script src="//www.travelpayouts.com/widgets/553a0062bf3116671079a4e38486a71e.js?v=1703" charset="utf-8" async&gt;&lt;/script&gt;',
@@ -250,6 +277,10 @@ var obj = {
       ven: '&lt;script src="//www.travelpayouts.com/widgets/93de79b1771ea8e94c3bf3ea541b2552.js?v=1707" charset="utf-8" async&gt;&lt;/script&gt',
       ams: '&lt;script src="//www.travelpayouts.com/widgets/0c24fda07a67a65acf5c571dff497cea.js?v=170" charset="utf-8" async&gt;&lt;/script&gt',
       vena: '&lt;script src="//www.travelpayouts.com/widgets/49737ce9661c7c1ab32eecce9d26b296.js?v=1707" charset="utf-8" async&gt;&lt;/script&gt',
+      tun: '&lt;script src="//www.travelpayouts.com/widgets/1f577dfa19b60969980ef9b3ab3ebb3c.js?v=1661" charset="utf-8" async&gt;&lt;/script&gt',
+      man: '&lt;script src="//www.travelpayouts.com/widgets/28bed98c58cff45d6afd5b0754f73622.js?v=1661" charset="utf-8" async&gt;&lt;/script&gt',
+      sim: '&lt;script src="//www.travelpayouts.com/widgets/32ca98bb3cf092d1be9cc0ba9f91b48b.js?v=1661" charset="utf-8" async&gt;&lt;/script&gt',
+      rio: '&lt;script src="//www.travelpayouts.com/widgets/e04987bd464414e21f8606b0113100a6.js?v=1707" charset="utf-8" async&gt;&lt;/script&gt',
     }
   }
 }
@@ -279,6 +310,9 @@ $('#nav-travelta-links .links__item div').click(function () {
   if ($(this).hasClass('PO')) {travelataLinksTitle.text($(this).text());travelataLinksLink.text(obj.travelata.links.PO);}
   if ($(this).hasClass('YU')) {travelataLinksTitle.text($(this).text());travelataLinksLink.text(obj.travelata.links.YU);}
   if ($(this).hasClass('IT')) {travelataLinksTitle.text($(this).text());travelataLinksLink.text(obj.travelata.links.IT);}
+  if ($(this).hasClass('TU')) {travelataLinksTitle.text($(this).text());travelataLinksLink.text(obj.travelata.links.TU);}
+  if ($(this).hasClass('FI')) {travelataLinksTitle.text($(this).text());travelataLinksLink.text(obj.travelata.links.FI);}
+  if ($(this).hasClass('KR')) {travelataLinksTitle.text($(this).text());travelataLinksLink.text(obj.travelata.links.KR);}
 });
 
 // TRAVELATA CALENDAR
@@ -297,10 +331,10 @@ $('#nav-travelta-calendar .links__item div').click(function () {
   if ($(this).hasClass('TA')) { travelataCalendarTitle.text($(this).text()); travelataCalendarLink.html(obj.travelata.calendar.TA); }
   if ($(this).hasClass('VE')) { travelataCalendarTitle.text($(this).text()); travelataCalendarLink.html(obj.travelata.calendar.VE); }
   if ($(this).hasClass('AB')) { travelataCalendarTitle.text($(this).text()); travelataCalendarLink.html(obj.travelata.calendar.AB); }
-  if ($(this).hasClass('IS')) { travelataCalendarTitle.text($(this).text()); travelataCalendarLink.html(obj.travelata.calendar.IS); }
   if ($(this).hasClass('PO')) { travelataCalendarTitle.text($(this).text()); travelataCalendarLink.html(obj.travelata.calendar.PO); }
   if ($(this).hasClass('CH')) { travelataCalendarTitle.text($(this).text()); travelataCalendarLink.html(obj.travelata.calendar.CH); }
   if ($(this).hasClass('IT')) { travelataCalendarTitle.text($(this).text()); travelataCalendarLink.html(obj.travelata.calendar.IT); }
+  if ($(this).hasClass('TU')) { travelataCalendarTitle.text($(this).text()); travelataCalendarLink.html(obj.travelata.calendar.TU); }
 });
 
 // TRAVELATA SEARCH
@@ -323,6 +357,7 @@ $('#nav-travelta-search .links__item div').click(function () {
   if ($(this).hasClass('PO')) { travelataSearchTitle.text($(this).text()); travelataSearchLink.html(obj.travelata.search.PO); }
   if ($(this).hasClass('CH')) { travelataSearchTitle.text($(this).text()); travelataSearchLink.html(obj.travelata.search.CH); }
   if ($(this).hasClass('IT')) { travelataSearchTitle.text($(this).text()); travelataSearchLink.html(obj.travelata.search.IT); }
+  if ($(this).hasClass('TU')) { travelataSearchTitle.text($(this).text()); travelataSearchLink.html(obj.travelata.search.TU); }
 });
 
 // TRAVELATA HOT
@@ -339,6 +374,7 @@ $('#nav-travelta-hot .links__item div').click(function () {
   if ($(this).hasClass('VE')) { travelataHotTitle.text($(this).text()); travelataHothLink.html(obj.travelata.hot.VE); }
   if ($(this).hasClass('IS')) { travelataHotTitle.text($(this).text()); travelataHothLink.html(obj.travelata.hot.IS); }
   if ($(this).hasClass('CH')) { travelataHotTitle.text($(this).text()); travelataHothLink.html(obj.travelata.hot.CH); }
+  if ($(this).hasClass('TU')) { travelataHotTitle.text($(this).text()); travelataHothLink.html(obj.travelata.hot.TU); }
 });
 
 // LEVEL.TRAVEL LINKS
@@ -357,6 +393,7 @@ $('#nav-level-links .links__item div').click(function () {
   if ($(this).hasClass('KI')) { levelLinksTitle.text($(this).text()); levelLinksLink.text(obj.level.links.KI); }
   if ($(this).hasClass('TA')) { levelLinksTitle.text($(this).text()); levelLinksLink.text(obj.level.links.TA); }
   if ($(this).hasClass('VE')) { levelLinksTitle.text($(this).text()); levelLinksLink.text(obj.level.links.VE); }
+  if ($(this).hasClass('TU')) { levelLinksTitle.text($(this).text()); levelLinksLink.text(obj.level.links.TU); }
 });
 
 // LEVEL CALENDAR
@@ -378,6 +415,7 @@ $('#nav-level-calendar .links__item div').click(function () {
   if ($(this).hasClass('IS')) { levelCalendarTitle.text($(this).text()); levelCalendarLink.html(obj.level.calendar.IS); }
   if ($(this).hasClass('CH')) { levelCalendarTitle.text($(this).text()); levelCalendarLink.html(obj.level.calendar.CH); }
   if ($(this).hasClass('IT')) { levelCalendarTitle.text($(this).text()); levelCalendarLink.html(obj.level.calendar.IT); }
+  if ($(this).hasClass('TU')) { levelCalendarTitle.text($(this).text()); levelCalendarLink.html(obj.level.calendar.TU); }
 });
 
 // LEVEL SEARCH
@@ -399,6 +437,7 @@ $('#nav-level-search .links__item div').click(function () {
   if ($(this).hasClass('IS')) { levelSearchTitle.text($(this).text()); levelSearchLink.html(obj.level.search.IS); }
   if ($(this).hasClass('CH')) { levelSearchTitle.text($(this).text()); levelSearchLink.html(obj.level.search.CH); }
   if ($(this).hasClass('IT')) { levelSearchTitle.text($(this).text()); levelSearchLink.html(obj.level.search.IT); }
+  if ($(this).hasClass('TU')) { levelSearchTitle.text($(this).text()); levelSearchLink.html(obj.level.search.TU); }
 });
 
 // LEVEL HOT
@@ -420,6 +459,7 @@ $('#nav-level-hot .links__item div').click(function () {
   if ($(this).hasClass('IS')) { levelHotTitle.text($(this).text()); levelHotLink.html(obj.level.hot.IS); }
   if ($(this).hasClass('CH')) { levelHotTitle.text($(this).text()); levelHotLink.html(obj.level.hot.CH); }
   if ($(this).hasClass('IT')) { levelHotTitle.text($(this).text()); levelHotLink.html(obj.level.hot.IT); }
+  if ($(this).hasClass('TU')) { levelHotTitle.text($(this).text()); levelHotLink.html(obj.level.hot.TU); }
 });
 
 // LEVEL BEST
@@ -441,6 +481,7 @@ $('#nav-level-best .links__item div').click(function () {
   if ($(this).hasClass('IS')) { levelBestTitle.text($(this).text()); levelBestLink.html(obj.level.best.IS); }
   if ($(this).hasClass('CH')) { levelBestTitle.text($(this).text()); levelBestLink.html(obj.level.best.CH); }
   if ($(this).hasClass('IT')) { levelBestTitle.text($(this).text()); levelBestLink.html(obj.level.best.IT); }
+  if ($(this).hasClass('TU')) { levelBestTitle.text($(this).text()); levelBestLink.html(obj.level.best.TU); }
 });
 
 // ROOMGURU LINKS
@@ -464,6 +505,10 @@ $('#nav-roomguru-links .links__item div').click(function () {
   if ($(this).hasClass('PO')) { roomguruLinksTitle.text($(this).text()); roomguruLinksLink.text(obj.roomguru.links.PO); }
   if ($(this).hasClass('CH')) { roomguruLinksTitle.text($(this).text()); roomguruLinksLink.text(obj.roomguru.links.CH); }
   if ($(this).hasClass('IT')) { roomguruLinksTitle.text($(this).text()); roomguruLinksLink.text(obj.roomguru.links.IT); }
+  if ($(this).hasClass('TU')) { roomguruLinksTitle.text($(this).text()); roomguruLinksLink.text(obj.roomguru.links.TU); }
+  if ($(this).hasClass('FI')) { roomguruLinksTitle.text($(this).text()); roomguruLinksLink.text(obj.roomguru.links.FI); }
+  if ($(this).hasClass('KR')) { roomguruLinksTitle.text($(this).text()); roomguruLinksLink.text(obj.roomguru.links.KR); }
+  if ($(this).hasClass('BR')) { roomguruLinksTitle.text($(this).text()); roomguruLinksLink.text(obj.roomguru.links.BR); }
 });
 
 // TRIPSTER LINKS
@@ -490,6 +535,10 @@ $('#nav-tripster-links .links__item div').click(function () {
   if ($(this).hasClass('vena')) { tripsterLinksTitle.text($(this).text()); tripsterLinksLink.text(obj.tripster.links.vena); }
   if ($(this).hasClass('arg')) { tripsterLinksTitle.text($(this).text()); tripsterLinksLink.text(obj.tripster.links.arg); }
   if ($(this).hasClass('dub')) { tripsterLinksTitle.text($(this).text()); tripsterLinksLink.text(obj.tripster.links.dub); }
+  if ($(this).hasClass('tun')) { tripsterLinksTitle.text($(this).text()); tripsterLinksLink.text(obj.tripster.links.tun); }
+  if ($(this).hasClass('man')) { tripsterLinksTitle.text($(this).text()); tripsterLinksLink.text(obj.tripster.links.man); }
+  if ($(this).hasClass('kr')) { tripsterLinksTitle.text($(this).text()); tripsterLinksLink.text(obj.tripster.links.kr); }
+  if ($(this).hasClass('rio')) { tripsterLinksTitle.text($(this).text()); tripsterLinksLink.text(obj.tripster.links.rio); }
 });
 
 // TRIPSTER SEARCH
@@ -515,6 +564,9 @@ $('#nav-tripster-search .links__item div').click(function () {
   if ($(this).hasClass('ams')) { tripsterSearchTitle.text($(this).text()); tripsterSearchLink.html(obj.tripster.search.ams); }
   if ($(this).hasClass('vena')) { tripsterSearchTitle.text($(this).text()); tripsterSearchLink.html(obj.tripster.search.vena); }
   if ($(this).hasClass('dub')) { tripsterSearchTitle.text($(this).text()); tripsterSearchLink.html(obj.tripster.search.dub); }
+  if ($(this).hasClass('tun')) { tripsterSearchTitle.text($(this).text()); tripsterSearchLink.html(obj.tripster.search.tun); }
+  if ($(this).hasClass('man')) { tripsterSearchTitle.text($(this).text()); tripsterSearchLink.html(obj.tripster.search.man); }
+  if ($(this).hasClass('rio')) { tripsterSearchTitle.text($(this).text()); tripsterSearchLink.html(obj.tripster.search.rio); }
 });
 
 // AVIASALES LINKS
@@ -541,6 +593,10 @@ $('#nav-aviasales-links .links__item div').click(function () {
   if ($(this).hasClass('ven')) { aviasalesLinksTitle.text($(this).text()); aviasalesLinksLink.text(obj.aviasales.links.ven); }
   if ($(this).hasClass('ams')) { aviasalesLinksTitle.text($(this).text()); aviasalesLinksLink.text(obj.aviasales.links.ams); }
   if ($(this).hasClass('vena')) { aviasalesLinksTitle.text($(this).text()); aviasalesLinksLink.text(obj.aviasales.links.vena); }
+  if ($(this).hasClass('tun')) { aviasalesLinksTitle.text($(this).text()); aviasalesLinksLink.text(obj.aviasales.links.tun); }
+  if ($(this).hasClass('man')) { aviasalesLinksTitle.text($(this).text()); aviasalesLinksLink.text(obj.aviasales.links.man); }
+  if ($(this).hasClass('sim')) { aviasalesLinksTitle.text($(this).text()); aviasalesLinksLink.text(obj.aviasales.links.sim); }
+  if ($(this).hasClass('rio')) { aviasalesLinksTitle.text($(this).text()); aviasalesLinksLink.text(obj.aviasales.links.rio); }
 });
 
 // AVIASALES SEARCH
@@ -568,4 +624,8 @@ $('#nav-aviasales-search .links__item div').click(function () {
   if ($(this).hasClass('ven')) { aviasalesSearchTitle.text($(this).text()); aviasalesSearchLink.html(obj.aviasales.search.ven); }
   if ($(this).hasClass('ams')) { aviasalesSearchTitle.text($(this).text()); aviasalesSearchLink.html(obj.aviasales.search.ams); }
   if ($(this).hasClass('vena')) { aviasalesSearchTitle.text($(this).text()); aviasalesSearchLink.html(obj.aviasales.search.vena); }
+  if ($(this).hasClass('tun')) { aviasalesSearchTitle.text($(this).text()); aviasalesSearchLink.html(obj.aviasales.search.tun); }
+  if ($(this).hasClass('man')) { aviasalesSearchTitle.text($(this).text()); aviasalesSearchLink.html(obj.aviasales.search.man); }
+  if ($(this).hasClass('sim')) { aviasalesSearchTitle.text($(this).text()); aviasalesSearchLink.html(obj.aviasales.search.sim); }
+  if ($(this).hasClass('rio')) { aviasalesSearchTitle.text($(this).text()); aviasalesSearchLink.html(obj.aviasales.search.rio); }
 });
