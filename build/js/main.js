@@ -252,6 +252,20 @@ var obj = {
       sharm: '&lt;script src="//www.travelpayouts.com/widgets/a58816c9302d47caef18d2d510fbb05c.js?v=1657" charset="utf-8" async&gt;&lt;/script&gt;',
       dub: '&lt;script src="//www.travelpayouts.com/widgets/c5a1b76adf73db2bd4bbeb0b0811c893.js?v=1657" charset="utf-8" async&gt;&lt;/script&gt;',
       phu: '&lt;script src="//www.travelpayouts.com/widgets/04df590ea21eefb5ae7bc27c091bcf5d.js?v=1703" charset="utf-8" async&gt;&lt;/script&gt;',
+      ban: '&lt;script src="//www.travelpayouts.com/widgets/ba50b5f2d1cc330b6dd8ed18676f53a3.js?v=1661" charset="utf-8" async&gt;&lt;/script&gt',
+      pat: '&lt;script src="//www.travelpayouts.com/widgets/a3367e44868d25da475a4cebed684001.js?v=1661" charset="utf-8" async&gt;&lt;/script&gt',
+      phu: '&lt;script src="//www.travelpayouts.com/widgets/ae199d815cf00dea105a628353fae5f6.js?v=1661" charset="utf-8" async&gt;&lt;/script&gt',
+      rim: '&lt;script src="//www.travelpayouts.com/widgets/bf17e378ea12503b3ad70bfc07fb3e43.js?v=1661" charset="utf-8" async&gt;&lt;/script&gt',
+      par: '&lt;script src="//www.travelpayouts.com/widgets/401b714ca52c73b9ac4a64b6a64e4c9d.js?v=1661" charset="utf-8" async&gt;&lt;/script&gt',
+      sp: '&lt;script src="//www.travelpayouts.com/widgets/f1e4794e4c2bffd252d94c541ed2321a.js?v=1661" charset="utf-8" async&gt;&lt;/script&gt',
+      bars: '&lt;script src="//www.travelpayouts.com/widgets/3b6ba3575729f3b5674793239dfcf50c.js?v=1707" charset="utf-8" async&gt;&lt;/script&gt',
+      prag: '&lt;script src="//www.travelpayouts.com/widgets/a6d1db4a796d348402973b136a45fde2.js?v=1707" charset="utf-8" async&gt;&lt;/script&gt',
+      tbi: '&lt;script src="//www.travelpayouts.com/widgets/0766766324e81d5046438c60fb83dee4.js?v=1661" charset="utf-8" async&gt;&lt;/script&gt',
+      liss: '&lt;script src="//www.travelpayouts.com/widgets/716ff49c39382246e21f7f7573ed5750.js?v=1707" charset="utf-8" async&gt;&lt;/script&gt',
+      flo: '&lt;script src="//www.travelpayouts.com/widgets/907c6c72b40d215889f602cc440745a4.js?v=1707" charset="utf-8" async&gt;&lt;/script&gt',
+      ven: '&lt;script src="//www.travelpayouts.com/widgets/93de79b1771ea8e94c3bf3ea541b2552.js?v=1707" charset="utf-8" async&gt;&lt;/script&gt',
+      ams: '&lt;script src="//www.travelpayouts.com/widgets/0c24fda07a67a65acf5c571dff497cea.js?v=170" charset="utf-8" async&gt;&lt;/script&gt',
+      vena: '&lt;script src="//www.travelpayouts.com/widgets/49737ce9661c7c1ab32eecce9d26b296.js?v=1707" charset="utf-8" async&gt;&lt;/script&gt',
     }
   }
 }
@@ -579,4 +593,18 @@ $('#nav-aviasales-search .links__item div').click(function () {
   if ($(this).hasClass('sharm')) { aviasalesSearchTitle.text($(this).text()); aviasalesSearchLink.html(obj.aviasales.search.sharm); }
   if ($(this).hasClass('phu')) { aviasalesSearchTitle.text($(this).text()); aviasalesSearchLink.html(obj.aviasales.search.phu); }
   if ($(this).hasClass('dub')) { aviasalesSearchTitle.text($(this).text()); aviasalesSearchLink.html(obj.aviasales.search.dub); }
+  if ($(this).hasClass('ban')) { aviasalesSearchTitle.text($(this).text()); aviasalesSearchLink.html(obj.aviasales.search.ban); }
+  if ($(this).hasClass('pat')) { aviasalesSearchTitle.text($(this).text()); aviasalesSearchLink.html(obj.aviasales.search.pat); }
+  if ($(this).hasClass('phu')) { aviasalesSearchTitle.text($(this).text()); aviasalesSearchLink.html(obj.aviasales.search.phu); }
+  if ($(this).hasClass('rim')) { aviasalesSearchTitle.text($(this).text()); aviasalesSearchLink.html(obj.aviasales.search.rim); }
+  if ($(this).hasClass('par')) { aviasalesSearchTitle.text($(this).text()); aviasalesSearchLink.html(obj.aviasales.search.par); }
+  if ($(this).hasClass('sp')) { aviasalesSearchTitle.text($(this).text()); aviasalesSearchLink.html(obj.aviasales.search.sp); }
+  if ($(this).hasClass('bars')) { aviasalesSearchTitle.text($(this).text()); aviasalesSearchLink.html(obj.aviasales.search.bars); }
+  if ($(this).hasClass('prag')) { aviasalesSearchTitle.text($(this).text()); aviasalesSearchLink.html(obj.aviasales.search.prag); }
+  if ($(this).hasClass('tbi')) { aviasalesSearchTitle.text($(this).text()); aviasalesSearchLink.html(obj.aviasales.search.tbi); }
+  if ($(this).hasClass('liss')) { aviasalesSearchTitle.text($(this).text()); aviasalesSearchLink.html(obj.aviasales.search.liss); }
+  if ($(this).hasClass('flo')) { aviasalesSearchTitle.text($(this).text()); aviasalesSearchLink.html(obj.aviasales.search.flo); }
+  if ($(this).hasClass('ven')) { aviasalesSearchTitle.text($(this).text()); aviasalesSearchLink.html(obj.aviasales.search.ven); }
+  if ($(this).hasClass('ams')) { aviasalesSearchTitle.text($(this).text()); aviasalesSearchLink.html(obj.aviasales.search.ams); }
+  if ($(this).hasClass('vena')) { aviasalesSearchTitle.text($(this).text()); aviasalesSearchLink.html(obj.aviasales.search.vena); }
 });
