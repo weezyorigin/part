@@ -202,6 +202,7 @@ var obj = {
       ams: 'https://c11.travelpayouts.com/click?shmarker=222372&promo_id=1741&source_type=link&type=click',
       vena: 'https://c11.travelpayouts.com/click?shmarker=222372&promo_id=1739&source_type=link&type=click',
       arg: 'https://c11.travelpayouts.com/click?shmarker=222372&promo_id=1093&source_type=link&type=click',
+      dub: 'https://c11.travelpayouts.com/click?shmarker=222372&promo_id=652&source_type=customlink&type=click&custom_url=https%3A%2F%2Fexperience.tripster.ru%2Fexperience%2FDubai%2F',
     },
     search: {
       kal: '&lt;script src="https://c11.travelpayouts.com/content?promo_id=1499&shmarker=222372&wtype=geo&city=Kaliningrad&order=top&num=3&widget_template=horizontal&width=100%25&logo=true&widgetbar=false&powered_by=false" charset="utf-8" async&gt;&lt;/script&gt;',
@@ -220,6 +221,7 @@ var obj = {
       ven: '&lt;script src="https://c11.travelpayouts.com/content?promo_id=1499&shmarker=222372&wtype=geo&city=Venice&order=top&num=3&widget_template=horizontal&width=100%25&logo=true&widgetbar=false&powered_by=false" charset="utf-8" async&gt;&lt;/script&gt;',
       ams: '&lt;script src="https://c11.travelpayouts.com/content?promo_id=1499&shmarker=222372&wtype=geo&city=Amsterdam&order=top&num=3&widget_template=horizontal&width=100%25&logo=true&widgetbar=false&powered_by=false" charset="utf-8" async&gt;&lt;/script&gt;',
       vena: '&lt;script src="https://c11.travelpayouts.com/content?promo_id=1499&shmarker=222372&wtype=geo&city=Vienna&order=top&num=3&widget_template=horizontal&width=100%25&logo=true&widgetbar=false&powered_by=false" charset="utf-8" async&gt;&lt;/script&gt;',
+      dub: '&lt;script src="https://c11.travelpayouts.com/content?promo_id=1499&shmarker=222372&wtype=geo&city=dubai&order=top&num=3&widget_template=horizontal&width=100%25&logo=true&widgetbar=false&powered_by=false" charset="utf-8" async&gt;&lt;/script&gt;',
     }
   },
 
@@ -278,6 +280,7 @@ $('#nav-travelta-links .links__item div').click(function () {
   if ($(this).hasClass('IS')) {travelataLinksTitle.text($(this).text());travelataLinksLink.text(obj.travelata.links.IS);}
   if ($(this).hasClass('PO')) {travelataLinksTitle.text($(this).text());travelataLinksLink.text(obj.travelata.links.PO);}
   if ($(this).hasClass('YU')) {travelataLinksTitle.text($(this).text());travelataLinksLink.text(obj.travelata.links.YU);}
+  if ($(this).hasClass('IT')) {travelataLinksTitle.text($(this).text());travelataLinksLink.text(obj.travelata.links.IT);}
 });
 
 // TRAVELATA CALENDAR
@@ -299,6 +302,7 @@ $('#nav-travelta-calendar .links__item div').click(function () {
   if ($(this).hasClass('IS')) { travelataCalendarTitle.text($(this).text()); travelataCalendarLink.html(obj.travelata.calendar.IS); }
   if ($(this).hasClass('PO')) { travelataCalendarTitle.text($(this).text()); travelataCalendarLink.html(obj.travelata.calendar.PO); }
   if ($(this).hasClass('CH')) { travelataCalendarTitle.text($(this).text()); travelataCalendarLink.html(obj.travelata.calendar.CH); }
+  if ($(this).hasClass('IT')) { travelataCalendarTitle.text($(this).text()); travelataCalendarLink.html(obj.travelata.calendar.IT); }
 });
 
 // TRAVELATA SEARCH
@@ -320,6 +324,7 @@ $('#nav-travelta-search .links__item div').click(function () {
   if ($(this).hasClass('IS')) { travelataSearchTitle.text($(this).text()); travelataSearchLink.html(obj.travelata.search.IS); }
   if ($(this).hasClass('PO')) { travelataSearchTitle.text($(this).text()); travelataSearchLink.html(obj.travelata.search.PO); }
   if ($(this).hasClass('CH')) { travelataSearchTitle.text($(this).text()); travelataSearchLink.html(obj.travelata.search.CH); }
+  if ($(this).hasClass('IT')) { travelataSearchTitle.text($(this).text()); travelataSearchLink.html(obj.travelata.search.IT); }
 });
 
 // TRAVELATA HOT
@@ -374,6 +379,7 @@ $('#nav-level-calendar .links__item div').click(function () {
   if ($(this).hasClass('AB')) { levelCalendarTitle.text($(this).text()); levelCalendarLink.html(obj.level.calendar.AB); }
   if ($(this).hasClass('IS')) { levelCalendarTitle.text($(this).text()); levelCalendarLink.html(obj.level.calendar.IS); }
   if ($(this).hasClass('CH')) { levelCalendarTitle.text($(this).text()); levelCalendarLink.html(obj.level.calendar.CH); }
+  if ($(this).hasClass('IT')) { levelCalendarTitle.text($(this).text()); levelCalendarLink.html(obj.level.calendar.IT); }
 });
 
 // LEVEL SEARCH
@@ -394,6 +400,7 @@ $('#nav-level-search .links__item div').click(function () {
   if ($(this).hasClass('AB')) { levelSearchTitle.text($(this).text()); levelSearchLink.html(obj.level.search.AB); }
   if ($(this).hasClass('IS')) { levelSearchTitle.text($(this).text()); levelSearchLink.html(obj.level.search.IS); }
   if ($(this).hasClass('CH')) { levelSearchTitle.text($(this).text()); levelSearchLink.html(obj.level.search.CH); }
+  if ($(this).hasClass('IT')) { levelSearchTitle.text($(this).text()); levelSearchLink.html(obj.level.search.IT); }
 });
 
 // LEVEL HOT
@@ -414,6 +421,7 @@ $('#nav-level-hot .links__item div').click(function () {
   if ($(this).hasClass('AB')) { levelHotTitle.text($(this).text()); levelHotLink.html(obj.level.hot.AB); }
   if ($(this).hasClass('IS')) { levelHotTitle.text($(this).text()); levelHotLink.html(obj.level.hot.IS); }
   if ($(this).hasClass('CH')) { levelHotTitle.text($(this).text()); levelHotLink.html(obj.level.hot.CH); }
+  if ($(this).hasClass('IT')) { levelHotTitle.text($(this).text()); levelHotLink.html(obj.level.hot.IT); }
 });
 
 // LEVEL BEST
@@ -434,6 +442,7 @@ $('#nav-level-best .links__item div').click(function () {
   if ($(this).hasClass('AB')) { levelBestTitle.text($(this).text()); levelBestLink.html(obj.level.best.AB); }
   if ($(this).hasClass('IS')) { levelBestTitle.text($(this).text()); levelBestLink.html(obj.level.best.IS); }
   if ($(this).hasClass('CH')) { levelBestTitle.text($(this).text()); levelBestLink.html(obj.level.best.CH); }
+  if ($(this).hasClass('IT')) { levelBestTitle.text($(this).text()); levelBestLink.html(obj.level.best.IT); }
 });
 
 // ROOMGURU LINKS
@@ -456,6 +465,7 @@ $('#nav-roomguru-links .links__item div').click(function () {
   if ($(this).hasClass('IS')) { roomguruLinksTitle.text($(this).text()); roomguruLinksLink.text(obj.roomguru.links.IS); }
   if ($(this).hasClass('PO')) { roomguruLinksTitle.text($(this).text()); roomguruLinksLink.text(obj.roomguru.links.PO); }
   if ($(this).hasClass('CH')) { roomguruLinksTitle.text($(this).text()); roomguruLinksLink.text(obj.roomguru.links.CH); }
+  if ($(this).hasClass('IT')) { roomguruLinksTitle.text($(this).text()); roomguruLinksLink.text(obj.roomguru.links.IT); }
 });
 
 // ROOMGURU SEARCH
@@ -478,6 +488,7 @@ $('#nav-roomguru-search .links__item div').click(function () {
   if ($(this).hasClass('IS')) { roomguruSearchTitle.text($(this).text()); roomguruSearchLink.html(obj.roomguru.search.IS); }
   if ($(this).hasClass('PO')) { roomguruSearchTitle.text($(this).text()); roomguruSearchLink.html(obj.roomguru.search.PO); }
   if ($(this).hasClass('CH')) { roomguruSearchTitle.text($(this).text()); roomguruSearchLink.html(obj.roomguru.search.CH); }
+  if ($(this).hasClass('IT')) { roomguruSearchTitle.text($(this).text()); roomguruSearchLink.html(obj.roomguru.search.IT); }
 });
 
 // TRIPSTER LINKS
@@ -503,6 +514,7 @@ $('#nav-tripster-links .links__item div').click(function () {
   if ($(this).hasClass('ams')) { tripsterLinksTitle.text($(this).text()); tripsterLinksLink.text(obj.tripster.links.ams); }
   if ($(this).hasClass('vena')) { tripsterLinksTitle.text($(this).text()); tripsterLinksLink.text(obj.tripster.links.vena); }
   if ($(this).hasClass('arg')) { tripsterLinksTitle.text($(this).text()); tripsterLinksLink.text(obj.tripster.links.arg); }
+  if ($(this).hasClass('dub')) { tripsterLinksTitle.text($(this).text()); tripsterLinksLink.text(obj.tripster.links.dub); }
 });
 
 // TRIPSTER SEARCH
@@ -527,6 +539,7 @@ $('#nav-tripster-search .links__item div').click(function () {
   if ($(this).hasClass('ven')) { tripsterSearchTitle.text($(this).text()); tripsterSearchLink.html(obj.tripster.search.ven); }
   if ($(this).hasClass('ams')) { tripsterSearchTitle.text($(this).text()); tripsterSearchLink.html(obj.tripster.search.ams); }
   if ($(this).hasClass('vena')) { tripsterSearchTitle.text($(this).text()); tripsterSearchLink.html(obj.tripster.search.vena); }
+  if ($(this).hasClass('dub')) { tripsterSearchTitle.text($(this).text()); tripsterSearchLink.html(obj.tripster.search.dub); }
 });
 
 // AVIASALES LINKS
