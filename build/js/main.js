@@ -25,6 +25,7 @@ var obj = {
       IS: 'https://c18.travelpayouts.com/click?shmarker=222372&promo_id=771&source_type=customlink&type=click&custom_url=https%3A%2F%2Ftravelata.ru%2Fsearch%23%3FfromCity%3D2%26toCountry%3D38%26nightFrom%3D7%26nightTo%3D8%26adults%3D2%26hotelClass%3Dall%26meal%3Dall%26priceFrom%3D6000%26priceTo%3D1000000%26sid%3D0lwx7mxuhh%26sort%3Drecommend',
       PO: 'https://c18.travelpayouts.com/click?shmarker=222372&promo_id=771&source_type=customlink&type=click&custom_url=https%3A%2F%2Ftravelata.ru%2Fsearch%23%3FfromCity%3D2%26toCountry%3D75%26nightFrom%3D7%26nightTo%3D8%26adults%3D2%26hotelClass%3Dall%26meal%3Dall%26priceFrom%3D6000%26priceTo%3D1000000%26sid%3D3dipia2usd%26sort%3Drecommend',
       YU: 'https://c18.travelpayouts.com/click?shmarker=222372&promo_id=771&source_type=customlink&type=click&custom_url=https%3A%2F%2Ftravelata.ru%2Fsearch%23%3FfromCity%3D2%26toCountry%3D116%26nightFrom%3D7%26nightTo%3D8%26adults%3D2%26hotelClass%3Dall%26meal%3Dall%26priceFrom%3D6000%26priceTo%3D1000000%26sid%3D1g79kkc2gf%26sort%3Drecommend',
+      IT: 'https://c18.travelpayouts.com/click?shmarker=222372&promo_id=771&source_type=customlink&type=click&custom_url=https%3A%2F%2Ftravelata.ru%2Fsearch%23%3FfromCity%3D2%26toCountry%3D39%26nightFrom%3D7%26nightTo%3D8%26adults%3D2%26hotelClass%3Dall%26meal%3Dall%26priceFrom%3D6000%26priceTo%3D1000000%26sid%3Djnn60cyn2r%26sort%3Drecommend',
     },
     calendar: {
       ru: '&lt;script src="https://c18.travelpayouts.com/content?promo_id=1493&shmarker=222372&countries=76&powered_by=false" charset="utf-8" async&gt;&lt;/script&gt;',
@@ -40,6 +41,7 @@ var obj = {
       IS: '&lt;script src="https://c18.travelpayouts.com/content?promo_id=1493&shmarker=222372&countries=38&powered_by=true" charset="utf-8" async&gt;&lt;/script&gt;',
       PO: '&lt;script src="https://c18.travelpayouts.com/content?promo_id=1493&shmarker=222372&countries=75&powered_by=true" charset="utf-8" async&gt;&lt;/script&gt;',
       CH: '&lt;script src="https://c18.travelpayouts.com/content?promo_id=1493&shmarker=222372&countries=105&powered_by=true" charset="utf-8" async&gt;&lt;/script&gt;',
+      IT: '&lt;script src="https://c18.travelpayouts.com/content?promo_id=1493&shmarker=222372&countries=39&powered_by=false" charset="utf-8" async&gt;&lt;/script&gt;',
     },
     search: {
       ru: '&lt;script src="https://c18.travelpayouts.com/content?promo_id=1492&shmarker=222372&countries=76&powered_by=false" charset="utf-8" async&gt;&lt;/script&gt;',
@@ -55,6 +57,7 @@ var obj = {
       IS: '&lt;script src="https://c18.travelpayouts.com/content?promo_id=1492&shmarker=222372&countries=38&powered_by=true" charset="utf-8" async&gt;&lt;/script&gt;',
       PO: '&lt;script src="https://c18.travelpayouts.com/content?promo_id=1492&shmarker=222372&countries=75&powered_by=true" charset="utf-8" async&gt;&lt;/script&gt;',
       CH: '&lt;script src="https://c18.travelpayouts.com/content?promo_id=1492&shmarker=222372&countries=105&powered_by=true" charset="utf-8" async&gt;&lt;/script&gt;',
+      IT: '&lt;script src="https://c18.travelpayouts.com/content?promo_id=1492&shmarker=222372&countries=39&powered_by=false" charset="utf-8" async&gt;&lt;/script&gt;',
     },
     hot: {
       tu: '&lt;script src="https://c18.travelpayouts.com/content?promo_id=1490&shmarker=222372&table=true&rows=1&columns=3&cellWidth=150&countries=92&powered_by=false" charset="utf-8" async&gt;&lt;/script&gt;',
@@ -94,6 +97,7 @@ var obj = {
       AB: '&lt;script src="//c26.travelpayouts.com/content?promo_id=1495&shmarker=222372&from_country=RU&to_country=AB&nights=7&adults=2&stars_from=1&stars_to=5&title_size=15&days_count=31&flex_dates=true&flex_nights=false&countries_list=true&departures=true&shown_nights=true&graph_label=true&week_labels=true&month_labels=true&months_switcher=true&tooltip=true&best_price=true&lines=true&medium_line=true&full_month=true&background=false&minimal=true&focus_target=false&powered_by=true" charset=" charset="utf-8" async&gt;&lt;/script&gt;',
       IS: '&lt;script src="//c26.travelpayouts.com/content?promo_id=1495&shmarker=222372&from_country=RU&to_country=ES&nights=7&adults=2&stars_from=1&stars_to=5&title_size=15&days_count=31&flex_dates=true&flex_nights=false&countries_list=true&departures=true&shown_nights=true&graph_label=true&week_labels=true&month_labels=true&months_switcher=true&tooltip=true&best_price=true&lines=true&medium_line=true&full_month=true&background=false&minimal=true&focus_target=false&powered_by=true" charset=" charset="utf-8" async&gt;&lt;/script&gt;',
       CH: '&lt;script src="//c26.travelpayouts.com/content?promo_id=1495&shmarker=222372&from_country=RU&to_country=CZ&nights=7&adults=2&stars_from=1&stars_to=5&title_size=15&days_count=31&flex_dates=true&flex_nights=false&countries_list=true&departures=true&shown_nights=true&graph_label=true&week_labels=true&month_labels=true&months_switcher=true&tooltip=true&best_price=true&lines=true&medium_line=true&full_month=true&background=false&minimal=true&focus_target=false&powered_by=true" charset=" charset="utf-8" async&gt;&lt;/script&gt;',
+      IT: '&lt;script src="//c26.travelpayouts.com/content?promo_id=1495&shmarker=222372&from_country=RU&to_country=IT&nights=7&adults=2&stars_from=1&stars_to=5&title_size=15&days_count=31&flex_dates=true&flex_nights=false&countries_list=true&departures=true&shown_nights=true&graph_label=true&week_labels=true&month_labels=true&months_switcher=true&tooltip=true&best_price=true&lines=true&medium_line=true&full_month=true&background=false&minimal=true&focus_target=false&powered_by=true" charset=" charset="utf-8" async&gt;&lt;/script&gt;',
     },
     search: {
       ru: '&lt;script src="//c26.travelpayouts.com/content?promo_id=1150&shmarker=222372&from_country=RU&to_country=RU&nights=7&adults=2&flex_dates=true&flex_nights=false&stars_from=1&stars_to=5&powered_by=false" charset="utf-8" async&gt;&lt;/script&gt;',
@@ -108,6 +112,7 @@ var obj = {
       AB: '&lt;script src="//c26.travelpayouts.com/content?promo_id=1150&shmarker=222372&from_country=RU&to_country=AB&nights=7&adults=2&flex_dates=true&flex_nights=false&stars_from=1&stars_to=5&powered_by=false" charset="utf-8" async&gt;&lt;/script&gt;',
       IS: '&lt;script src="//c26.travelpayouts.com/content?promo_id=1150&shmarker=222372&from_country=RU&to_country=ES&nights=7&adults=2&flex_dates=true&flex_nights=false&stars_from=1&stars_to=5&powered_by=false" charset="utf-8" async&gt;&lt;/script&gt;',
       CH: '&lt;script src="//c26.travelpayouts.com/content?promo_id=1150&shmarker=222372&from_country=RU&to_country=CZ&nights=7&adults=2&flex_dates=true&flex_nights=false&stars_from=1&stars_to=5&powered_by=false" charset="utf-8" async&gt;&lt;/script&gt;',
+      IT: '&lt;script src="//c26.travelpayouts.com/content?promo_id=1150&shmarker=222372&from_country=RU&to_country=IT&nights=7&adults=2&flex_dates=true&flex_nights=false&stars_from=1&stars_to=5&powered_by=false" charset="utf-8" async&gt;&lt;/script&gt;',
     },
     hot: {
       ru: '&lt;script src="//c26.travelpayouts.com/content?promo_id=1494&shmarker=222372&country=RU&adults=0&scroll=false&powered_by=false" charset="utf-8" async&gt;&lt;/script&gt;',
@@ -122,6 +127,7 @@ var obj = {
       AB: '&lt;script src="//c26.travelpayouts.com/content?promo_id=1494&shmarker=222372&country=AB&adults=0&scroll=false&powered_by=false" charset="utf-8" async&gt;&lt;/script&gt;',
       IS: '&lt;script src="//c26.travelpayouts.com/content?promo_id=1494&shmarker=222372&country=ES&adults=0&scroll=false&powered_by=false" charset="utf-8" async&gt;&lt;/script&gt;',
       CH: '&lt;script src="//c26.travelpayouts.com/content?promo_id=1494&shmarker=222372&country=CZ&adults=0&scroll=false&powered_by=false" charset="utf-8" async&gt;&lt;/script&gt;',
+      IT: '&lt;script src="//c26.travelpayouts.com/content?promo_id=1494&shmarker=222372&country=IT&adults=0&scroll=false&powered_by=false" charset="utf-8" async&gt;&lt;/script&gt;',
     },
     best: {
       ru: '&lt;script src="//c26.travelpayouts.com/content?promo_id=1151&shmarker=222372&popular=true&title=%D0%9B%D1%83%D1%87%D1%88%D0%B8%D0%B5%20%D1%86%D0%B5%D0%BD%D1%8B%20%D0%BD%D0%B0%20%D1%82%D1%83%D1%80%D1%8B&city_from=Moscow&country_to=RU&minimized=true&powered_by=false" charset="utf-8" async&gt;&lt;/script&gt;',
@@ -136,6 +142,7 @@ var obj = {
       AB: '&lt;script src="//c26.travelpayouts.com/content?promo_id=1151&shmarker=222372&popular=true&title=%D0%9B%D1%83%D1%87%D1%88%D0%B8%D0%B5%20%D1%86%D0%B5%D0%BD%D1%8B%20%D0%BD%D0%B0%20%D1%82%D1%83%D1%80%D1%8B&city_from=Moscow&country_to=AB&minimized=true&powered_by=false" charset="utf-8" async&gt;&lt;/script&gt;',
       IS: '&lt;script src="//c26.travelpayouts.com/content?promo_id=1151&shmarker=222372&popular=true&title=%D0%9B%D1%83%D1%87%D1%88%D0%B8%D0%B5%20%D1%86%D0%B5%D0%BD%D1%8B%20%D0%BD%D0%B0%20%D1%82%D1%83%D1%80%D1%8B&city_from=Moscow&country_to=ES&minimized=true&powered_by=false" charset="utf-8" async&gt;&lt;/script&gt;',
       CH: '&lt;script src="//c26.travelpayouts.com/content?promo_id=1151&shmarker=222372&popular=true&title=%D0%9B%D1%83%D1%87%D1%88%D0%B8%D0%B5%20%D1%86%D0%B5%D0%BD%D1%8B%20%D0%BD%D0%B0%20%D1%82%D1%83%D1%80%D1%8B&city_from=Moscow&country_to=CZ&minimized=true&powered_by=false" charset="utf-8" async&gt;&lt;/script&gt;',
+      IT: '&lt;script src="//c26.travelpayouts.com/content?promo_id=1151&shmarker=222372&popular=true&title=%D0%9B%D1%83%D1%87%D1%88%D0%B8%D0%B5%20%D1%86%D0%B5%D0%BD%D1%8B%20%D0%BD%D0%B0%20%D1%82%D1%83%D1%80%D1%8B&city_from=Moscow&country_to=IT&minimized=true&powered_by=false" charset="utf-8" async&gt;&lt;/script&gt;',
     }
   },
 
@@ -155,6 +162,7 @@ var obj = {
       IS: 'http://www.roomguru.ru/Place/Spain.htm?a_aid=213417',
       PO: 'http://www.roomguru.ru/Place/Portugal.htm?a_aid=213417',
       CH: 'http://www.roomguru.ru/Place/Czech_Republic.htm?a_aid=213417',
+      IT: 'http://www.roomguru.ru/Place/Italy.htm?a_aid=213417',
     },
     search: {
       ru: '&lt;script src="https://sbhc.portalhc.com/213417/searchbox/458504"&gt;&lt;/script&gt;',
@@ -170,6 +178,7 @@ var obj = {
       IS: '&lt;script src="https://sbhc.portalhc.com/213417/searchbox/458510"&gt;&lt;/script&gt;',
       PO: '&lt;script src="https://sbhc.portalhc.com/213417/searchbox/458511"&gt;&lt;/script&gt;',
       CH: '&lt;script src="https://sbhc.portalhc.com/213417/searchbox/458512"&gt;&lt;/script&gt;',
+      IT: '&lt;script src="https://sbhc.portalhc.com/213417/searchbox/458681"&gt;&lt;/script&gt;',
     },
   },
 
