@@ -517,6 +517,8 @@ var tripsterLinksTitle = $('#nav-tripster-links .output span');
 var tripsterLinksLink = $('#nav-tripster-links .output pre');
 
 $('#nav-tripster-links .links__item div').click(function () {
+  if ($(this).hasClass('main')) { tripsterLinksTitle.text($(this).text()); tripsterLinksLink.text(obj.tripster.links.main); }
+  if ($(this).hasClass('kal')) { tripsterLinksTitle.text($(this).text()); tripsterLinksLink.text(obj.tripster.links.kal); }
   if ($(this).hasClass('kal')) { tripsterLinksTitle.text($(this).text()); tripsterLinksLink.text(obj.tripster.links.kal); }
   if ($(this).hasClass('stamb')) { tripsterLinksTitle.text($(this).text()); tripsterLinksLink.text(obj.tripster.links.stamb); }
   if ($(this).hasClass('pat')) { tripsterLinksTitle.text($(this).text()); tripsterLinksLink.text(obj.tripster.links.pat); }
